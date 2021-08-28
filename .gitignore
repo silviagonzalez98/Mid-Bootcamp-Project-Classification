@@ -1,6 +1,5 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-.DS_Store
 *.py[cod]
 *$py.class
 
@@ -37,6 +36,9 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+
+#Ds storage
+.DS_Store
 
 # Unit test / coverage reports
 htmlcov/
