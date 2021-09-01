@@ -28,18 +28,15 @@ q4_balance int
 -- 3) Import the data from the csv file into the table.
 SHOW VARIABLES LIKE 'local_infile';
 SET GLOBAL local_infile = 1;
-
 -- I generated a copy of the csv and removed the headers, naming the csv '.SQL(NoHeaders)
-
 -- I don't know why it didn't work:
 -- BULK INSERT credit_card_data
--- FROM 'C:/Users/silvia/Mid-Bootcamp-Project-Classification/data/creditcardmarketing-SQL(NoHeaders).csv'
--- WITH (
-	-- FORMAT = 'csv',
+-- FROM 'C:/Users/silvia/mid-project-classification/data/creditcardmarketing-SQL(NoHeaders).csv'
+-- WITH (FORMAT = 'csv',
     -- FIRSTROW = 1,
-    -- FIELDTERMINATOR = ',');
-    
--- I finally imported data using import wizard [data:'creditcardmarketing-SQL(NoHeaders)' ]
+    -- FIELDTERMINATOR = ','); 
+-- But finally imported data using import wizard [data:'creditcardmarketing-SQL(NoHeaders)' ]
+
 
 -- 4) Select all the data from table credit_card_data to check if the data was imported correctly.
 SELECT * 
