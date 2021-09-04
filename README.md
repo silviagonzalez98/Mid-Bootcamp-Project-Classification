@@ -49,10 +49,8 @@ Characteristics of customers who accepted the offer:<br />
 ![graphs 1](https://user-images.githubusercontent.com/80603632/132095229-b5771bde-9efb-473d-816b-ae4a686b7228.png)
 ![graphs 2](https://user-images.githubusercontent.com/80603632/132095232-66af08b2-928b-423b-955d-7fa8d887243d.png)
 
-**SQL&Python results** 
-- 0.5% represent customers that accepted the offer in the dataset. 
-- These customers tend to have 2 or less bank accounts open, own their own home and hold 3 or less credit cards
-- Logistic regession model with accuracy: 0.95, and KNN with accuracy of 0.94
+**Final insights :** 
+0.5% represent customers that accepted the offer in the dataset. These customers tend to have 2 or less bank accounts open, own their own home and hold 3 or less credit cards. Achieved a logistic regession model with accuracy: 0.95, and KNN with accuracy of 0.94
 
 
 ### Additional details
