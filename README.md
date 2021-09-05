@@ -1,13 +1,13 @@
-# Classification project
-The objective of this project is to build a model that provides insight into why some bank customers accept credit card offers. 
+## Classification project
+#### Type: Credit card customers analysis
 
-### Introduction
-
-**About the project**<br /><br />
 <img src="https://user-images.githubusercontent.com/80603632/132091415-93beebfa-f1b6-4ea9-b5e6-3fe88a237f49.png" width="500" />
 
-**Data:**
-The data set consists of information on 18,000 current bank customers in the study. These are the definitions of data points provided.
+### Introduction
+The objective of this project is to build a model that provides insight into why some bank customers accept credit card offers. 
+
+### Data
+The data set consists of information on 18,000 current bank customers in the study. The information of the datased includes both categorical and numerical variables to analyse indicated below.
 
 **i) Categoricals**
 |Categoricals | Values |	
@@ -19,7 +19,6 @@ The data set consists of information on 18,000 current bank customers in the stu
 |Overdraft protection |	Yes, No|
 |Credit rating	|	High, Medium, Low
 |Own your home	|	Yes, No|
-<br />
 
 **ii) Numericals**
 
@@ -36,19 +35,19 @@ The data set consists of information on 18,000 current bank customers in the stu
 |	Q3 balance|	0 to 3823|
 |	Q4 balance|	0 to 4215|
 
-**Project process**
+### Project workflow 
 1) Data exploration with SQL
 
-2) Python
+2) Data featuring and logistic regression with Python
 
 3) Data visualization with Tableau
 
-### Main conclusions
+### Conclusions 
+**Business insights** 
+<br />
+**Next steps** 
 
-**Business insights** <br />
-**Next steps** <br />
-
-### Libaries used
+### Additional details
 |	Libaries |	
 ------------- |
 |	pandas as pd |	
