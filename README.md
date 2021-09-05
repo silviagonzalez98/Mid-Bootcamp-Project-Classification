@@ -1,5 +1,5 @@
 ## Classification project
-#### Type: Credit card customers analysis
+#### Credit card customers analysis <br />
 
 <img src="https://user-images.githubusercontent.com/80603632/132091415-93beebfa-f1b6-4ea9-b5e6-3fe88a237f49.png" width="500" />
 
@@ -36,16 +36,25 @@ The data set consists of information on 18,000 current bank customers in the stu
 |	Q4 balance|	0 to 4215|
 
 ### Project workflow 
-1) Data exploration with SQL
+1) Data exploration with SQL <br />(file directory: ./project/sql-queries.sql)
 
-2) Data featuring and logistic regression with Python
+2) Data featuring and logistic regression with Python <br />(file directory: ./project/python-work.ipynb)
 
-3) Data visualization with Tableau
+3) Data visualization with Tableau <br />(file directory: ./project/Tableau_visualization_results.ipynb)
 
-### Conclusions 
-**Business insights** 
-<br />
-**Next steps** 
+### Data visualization & results 
+**Big picture: current customers characteristics** 
+<br /><br />
+Characteristics of customers who accepted the offer:<br />
+![graphs 1](https://user-images.githubusercontent.com/80603632/132095229-b5771bde-9efb-473d-816b-ae4a686b7228.png)
+![graphs 2](https://user-images.githubusercontent.com/80603632/132095232-66af08b2-928b-423b-955d-7fa8d887243d.png)
+
+### Results <br />
+
+- Target customers (Offer accepted): 0.5% represent customers that accepted the offer in the dataset. 
+- Characteristics of target customers: These customers tend to have 2 or less bank accounts open, own their own home and hold 3 or less credit cards. 
+- Models accuracy: Logistic regession model with accuracy: 0.95, and KNN with accuracy of 0.94
+
 
 ### Additional details
 |	Libaries |	
