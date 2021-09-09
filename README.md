@@ -49,11 +49,11 @@ Characteristics of customers who accepted the offer:<br />
 ![graphs 1](https://user-images.githubusercontent.com/80603632/132095229-b5771bde-9efb-473d-816b-ae4a686b7228.png)
 ![graphs 2](https://user-images.githubusercontent.com/80603632/132095232-66af08b2-928b-423b-955d-7fa8d887243d.png)
 
-### Results <br />
-Insight 1: Customers who accepted the offer generally having higher quarterly balances.
-Insight 2: There is definitely observed a huge jump in average balance from q1 to q2 for households with size 8, and the main reason is that there is only one customer in the dataset that represents household = 8, consequently moves all the metric.
-Insight 3: Customers that accepted the offer mostly had received a postcard, and had a low (and medium) credit rating. This results a key insight for the bank.
-Insight 4: Categorizing by average balance, most customers (out of 18k) have a balance of 1.4k or less (13.8k customers between 701 to 1.4k balance, and 3.2k customers between 0 to 700 balance).
+### Big picture & Key Findings <br />
+Insight 1: Customers who accepted the offer generally have higher quarterly balances. <br />
+Insight 2: There is definitely observed a huge jump in average balance from q1 to q2 for households with size 8, and the main reason is that there is only one customer in the dataset that represents household = 8, consequently moves all the metric. <br />
+Insight 3: Customers that accepted the offer mostly had received a postcard, and had a low (and medium) credit rating. This results a key insight for the bank. <br />
+Insight 4: Categorizing by average balance, most customers (out of 18k) have a balance of 1.4k or less (13.8k customers between 701 to 1.4k balance, and 3.2k customers between 0 to 700 balance). <br />
 
 ### Additional details
 |	Libaries |	
