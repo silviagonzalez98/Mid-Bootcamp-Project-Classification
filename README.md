@@ -50,11 +50,10 @@ Characteristics of customers who accepted the offer:<br />
 ![graphs 2](https://user-images.githubusercontent.com/80603632/132095232-66af08b2-928b-423b-955d-7fa8d887243d.png)
 
 ### Results <br />
-
-- Target customers (Offer accepted): 0.5% represent customers that accepted the offer in the dataset. 
-- Characteristics of target customers: These customers tend to have 2 or less bank accounts open, own their own home and hold 3 or less credit cards. 
-- Models accuracy: Logistic regession model with accuracy: 0.95, and KNN with accuracy of 0.94
-
+Insight 1: Customers who accepted the offer generally having higher quarterly balances.
+Insight 2: There is definitely observed a huge jump in average balance from q1 to q2 for households with size 8, and the main reason is that there is only one customer in the dataset that represents household = 8, consequently moves all the metric.
+Insight 3: Customers that accepted the offer mostly had received a postcard, and had a low (and medium) credit rating. This results a key insight for the bank.
+Insight 4: Categorizing by average balance, most customers (out of 18k) have a balance of 1.4k or less (13.8k customers between 701 to 1.4k balance, and 3.2k customers between 0 to 700 balance).
 
 ### Additional details
 |	Libaries |	
