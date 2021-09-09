@@ -42,14 +42,13 @@ The data set consists of information on 18,000 current bank customers in the stu
 
 3) Data visualization with Tableau <br />(file directory: ./project/Tableau_visualization_results.ipynb)
 
-### Data visualization & results 
-**Big picture: current customers characteristics** 
+### Results: Data visualization of current customers characteristics
 <br /><br />
 Characteristics of customers who accepted the offer:<br />
 ![graphs 1](https://user-images.githubusercontent.com/80603632/132095229-b5771bde-9efb-473d-816b-ae4a686b7228.png)
 ![graphs 2](https://user-images.githubusercontent.com/80603632/132095232-66af08b2-928b-423b-955d-7fa8d887243d.png)
 
-### Big picture & Key Findings <br />
+### Key Findings <br />
 - Insight 1: Customers who accepted the offer generally have higher quarterly balances. <br />
 - Insight 2: There is definitely observed a huge jump in average balance from q1 to q2 for households with size 8, and the main reason is that there is only one customer in the dataset that represents household = 8, consequently moves all the metric. <br />
 - Insight 3: Customers that accepted the offer mostly had received a postcard, and had a low (and medium) credit rating. This results a key piece of information to encourage the bank to focus on prioritizing postcards and focusing on low to meidum credit rating customers. <br />
