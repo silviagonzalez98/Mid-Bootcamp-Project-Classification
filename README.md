@@ -1,7 +1,7 @@
 ## Classification project
 #### Credit card customers analysis <br />
 
-<img src="hhttps://github.com/silviagonzalez98/Movies-Box-Office-Revenue/blob/main/images/descarga.jpeg?raw=true.png" width="500" />
+<img src="hhttps://github.com/silviagonzalez98/Movies-Box-Office-Revenue/blob/main/images/descarga.jpeg?raw=true" width="500" />
 
 ### Introduction
 The objective of this project is to build a model that provides insight into why some bank customers accept credit card offers. 
