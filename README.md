@@ -1,7 +1,7 @@
 ## Classification project
 #### Credit card customers analysis <br />
 
-<img src="https://user-images.githubusercontent.com/80603632/132091415-93beebfa-f1b6-4ea9-b5e6-3fe88a237f49.png" width="500" />
+<img src="hhttps://github.com/silviagonzalez98/Movies-Box-Office-Revenue/blob/main/images/descarga.jpeg?raw=true.png" width="500" />
 
 ### Introduction
 The objective of this project is to build a model that provides insight into why some bank customers accept credit card offers. 
@@ -52,7 +52,7 @@ The data set consists of information on 18,000 current bank customers in the stu
 - Insight 3: Customers that accepted the offer mostly had received a postcard, and had a low (and medium) credit rating. This results a key piece of information to encourage the bank to focus on prioritizing postcards and focusing on low to meidum credit rating customers. <br /> 
 - Insight 4: Categorizing by average balance, most customers (out of 18k) have a balance of 1.4k or less (13.8k customers between 701 to 1.4k balance, and 3.2k customers between 0 to 700 balance).
 
-### Additional details
+### Libraries
 |	Libaries |	
 ------------- |
 |	pandas as pd |	
